@@ -25,7 +25,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Note: This project is meant for educational purposes and is not intended for production use. Always use well-established libraries and follow best practices for password security when developing production applications.
 
-  Did you really read all of this?! ________
-                                          |
-                                          V
-                                        (thanks)
+  Did you really read all of this?! (thanks)
