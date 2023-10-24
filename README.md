@@ -2,29 +2,22 @@
 
 # Password Hashing with SHA-256
 
-This is a basic C# program that demonstrates how to hash passwords using the SHA-256 cryptographic hash function.
+This is a simple C# program that demonstrates how to hash passwords using the SHA-256 cryptographic hash function. The project includes two main files:
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Prerequisites](#prerequisites)
-- [How to Use](#how-to-use)
-- [License](#license)
-
-## Introduction
-
-In this project, we provide a simple implementation of password hashing using the SHA-256 algorithm. Password hashing is an essential step in security when storing user passwords. It helps protect sensitive data in case of a security breach.
-
-## Prerequisites
-
-- .NET Core SDK (or .NET Framework)
-- Visual Studio (or any other C# development environment)
+- `hashPassword.csproj`: The project file.
+- `Program.cs`: The C# source code.
 
 ## How to Use
 
-1. Clone the repository or download the source code.
+1. Clone or download the repository to your local machine.
 
-   ```sh
-   git clone https://github.com/zaCodeza/simpleHashPassword.git
+2. Open the solution in your C# development environment (e.g., Visual Studio).
+
+3. Build and run the project.
+
+4. Follow the on-screen instructions to see how password hashing works for different inputs.
+
+This project is intended for educational purposes and is not meant for production use. Always use well-established libraries and follow best practices for password security when developing production applications.
 
 ## License
 
